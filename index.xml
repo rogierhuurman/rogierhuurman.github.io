@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on Rogier Huurman</title>
-    <link>https://alpako.nl/</link>
+    <link>https://rogierhuurman.nl/</link>
     <description>Recent content in Website on Rogier Huurman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://alpako.nl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rogierhuurman.nl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wat ik doe</title>
-      <link>https://alpako.nl/watikdoe/</link>
+      <link>https://rogierhuurman.nl/watikdoe/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://alpako.nl/watikdoe/</guid>
+      <guid>https://rogierhuurman.nl/watikdoe/</guid>
       <description>Ik werk als vertaler, maar ik houd genoeg tijd over voor diverse andere activiteiten:
  Voorzitter van de werkgroep Digitale Samenleving &amp;amp; Privacy van GroenLinks Penningmeester van de Nederlandse Esperanto-Jongeren en hoofdorganisator van het Wereld-Esperantojongerencongres 2020  </description>
     </item>
     
     <item>
       <title>Wat ik vind</title>
-      <link>https://alpako.nl/watikvind/</link>
+      <link>https://rogierhuurman.nl/watikvind/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://alpako.nl/watikvind/</guid>
+      <guid>https://rogierhuurman.nl/watikvind/</guid>
       <description>Hier verschijnen op later moment mijn opvattingen.</description>
     </item>
     
     <item>
       <title>De website staat online</title>
-      <link>https://alpako.nl/website-online/</link>
+      <link>https://rogierhuurman.nl/website-online/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://alpako.nl/website-online/</guid>
+      <guid>https://rogierhuurman.nl/website-online/</guid>
       <description>Het is maandag 27 mei, de dag na de Europese verkiezingen 2019, en mijn website staat online. Op dit moment is er nog weinig inhoud, maar dat gaat de komende maanden langzaam veranderen.</description>
     </item>
     

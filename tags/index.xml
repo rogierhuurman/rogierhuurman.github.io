@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rogier Huurman</title>
-    <link>https://alpako.nl/tags/</link>
+    <link>https://rogierhuurman.nl/tags/</link>
     <description>Recent content in Tags on Rogier Huurman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://alpako.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rogierhuurman.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>website</title>
-      <link>https://alpako.nl/tags/website/</link>
+      <link>https://rogierhuurman.nl/tags/website/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://alpako.nl/tags/website/</guid>
+      <guid>https://rogierhuurman.nl/tags/website/</guid>
       <description></description>
     </item>
     
