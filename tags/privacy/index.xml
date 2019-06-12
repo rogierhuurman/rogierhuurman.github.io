@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Rogier Huurman</title>
-    <link>https://rogierhuurman.nl/post/</link>
-    <description>Recent content in Posts on Rogier Huurman</description>
+    <title>privacy on Rogier Huurman</title>
+    <link>https://rogierhuurman.nl/tags/privacy/</link>
+    <description>Recent content in privacy on Rogier Huurman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rogierhuurman.nl/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rogierhuurman.nl/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://rogierhuurman.nl/standpunten-bijdragen/</guid>
       <description>GroenLinks begint binnenkort aan het schrijven van het verkiezingsprogramma voor de volgende Tweede Kamerverkiezingen. De werkgroep Digitale Samenleving &amp;amp; Privacy, waarvan ik de voorzitter ben, gaat hier ook aan meehelpen. We hebben zelf al een heleboel ideeën, maar uiteindelijk zijn we maar een kleine club. Daarom open ik dit webformulier waar iedereen zijn standpunten en ideeën kan bijdragen. Het liefst over digitale en privacythema&amp;rsquo;s, maar andere standpunten kan ik ook doorsturen naar andere werkgroepen.</description>
-    </item>
-    
-    <item>
-      <title>De website staat online</title>
-      <link>https://rogierhuurman.nl/website-online/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rogierhuurman.nl/website-online/</guid>
-      <description>Het is maandag 27 mei, de dag na de Europese verkiezingen 2019, en mijn website staat online. Op dit moment is er nog weinig inhoud, maar dat gaat de komende maanden langzaam veranderen.</description>
     </item>
     
   </channel>
