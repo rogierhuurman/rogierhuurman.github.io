@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Rogier Huurman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rogierhuurman.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>GroenLinks</title>
       <link>https://rogierhuurman.nl/tags/groenlinks/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rogierhuurman.nl/tags/groenlinks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vlog</title>
+      <link>https://rogierhuurman.nl/tags/vlog/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogierhuurman.nl/tags/vlog/</guid>
       <description></description>
     </item>
     

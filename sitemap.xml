@@ -4,29 +4,40 @@
   
   <url>
     <loc>https://rogierhuurman.nl/tags/groenlinks/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rogierhuurman.nl/videoblog/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rogierhuurman.nl/post/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rogierhuurman.nl/standpunten-bijdragen/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rogierhuurman.nl/tags/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rogierhuurman.nl/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogierhuurman.nl/tags/vlog/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rogierhuurman.nl/standpunten-bijdragen/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url>
   

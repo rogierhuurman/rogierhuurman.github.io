@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vlog on Rogier Huurman</title>
+    <link>https://rogierhuurman.nl/tags/vlog/</link>
+    <description>Recent content in vlog on Rogier Huurman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rogierhuurman.nl/tags/vlog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ik heb nu een videokanaal</title>
+      <link>https://rogierhuurman.nl/videoblog/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogierhuurman.nl/videoblog/</guid>
+      <description>Ik ben kortgeleden begonnen een vlog bij te houden op YouTube). Ik upload wekelijks een filmpje van twee tot drie minuten waarin ik vertel en laat zien wat voor interessante dingen ik doe, vooral bij GroenLinks. De kwaliteit is op dit moment nog een beetje amateuristisch, maar ik doe elke week meer ervaring op.</description>
+    </item>
+    
+  </channel>
+</rss>
