@@ -3,36 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rogierhuurman.nl/secretaris-glpu/</loc>
-    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rogierhuurman.nl/post/</loc>
-    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rogierhuurman.nl/tags/</loc>
-    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rogierhuurman.nl/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogierhuurman.nl/dsp-programma/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogierhuurman.nl/tags/groenlinks/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rogierhuurman.nl/tags/privacy/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rogierhuurman.nl/secretaris-glpu/</loc>
+    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rogierhuurman.nl/watikdoe/</loc>
     <lastmod>2019-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogierhuurman.nl/</loc>
-    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogierhuurman.nl/tags/groenlinks/</loc>
-    <lastmod>2019-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
