@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>persoonlijk on Rogier Huurman</title>
+    <link>https://rogierhuurman.nl/tags/persoonlijk/</link>
+    <description>Recent content in persoonlijk on Rogier Huurman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rogierhuurman.nl/tags/persoonlijk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ik wordt vader</title>
+      <link>https://rogierhuurman.nl/vader/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogierhuurman.nl/vader/</guid>
+      <description>Mijn vrouw en ik verwachten in mei ons eerste kind. Wat een prachtig avontuur in deze moeilijke tijden.</description>
+    </item>
+    
+  </channel>
+</rss>

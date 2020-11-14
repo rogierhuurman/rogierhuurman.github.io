@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Rogier Huurman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
-    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rogierhuurman.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>groenlinks</title>
       <link>https://rogierhuurman.nl/tags/groenlinks/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rogierhuurman.nl/tags/groenlinks/</guid>
       <description></description>
@@ -23,9 +23,36 @@
     <item>
       <title>privacy</title>
       <link>https://rogierhuurman.nl/tags/privacy/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rogierhuurman.nl/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>persoonlijk</title>
+      <link>https://rogierhuurman.nl/tags/persoonlijk/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogierhuurman.nl/tags/persoonlijk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datavakbond</title>
+      <link>https://rogierhuurman.nl/tags/datavakbond/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogierhuurman.nl/tags/datavakbond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>esperanto</title>
+      <link>https://rogierhuurman.nl/tags/esperanto/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogierhuurman.nl/tags/esperanto/</guid>
       <description></description>
     </item>
     
